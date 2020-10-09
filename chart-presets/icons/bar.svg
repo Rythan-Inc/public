@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="100%" width="100%" viewBox="0,0,2048,2048" focusable="false">
+   <path type="path" class="style_HighContrast" d="M 1963 1920 v 43 h -1878 v -1878 h 43 v 171 h 1707 v 341 h -640 v 299 h -1067 v 171 h 811 v 298 h 512 v 342 h -1323 v 213 m 0 -1067 h 1024 v -256 h -1024 m 0 1067 h 1280 v -256 h -1280 z" />
+   <path type="path" class="style_m20" d="M 1429 1387 v 298 h -1322 v -298 m 1066 -811 v 299 h -1066 v -299 z" />
+   <path type="path" class="style_m26" d="M 1813 277 v 299 h -1706 v -299 z" />
+   <path type="path" class="style_m25" d="M 101 597 v -42 h 1691 v -256 h -1691 v -43 h 1734 v 341 z" />
+   <path type="path" class="style_m21" d="M 917 1088 v 299 h -810 v -299 z" />
+   <path type="path" class="style_m23" d="M 896 1109 h -795 v -42 h 838 v 322 h -43 z" />
+   <path type="path" class="style_m22" d="M 1963 1920 v 43 h -1878 v -1878 h 43 v 768 h 1024 v -256 h 43 v 299 h -1067 v 469 h 1323 v 342 h -1323 v 213 m 0 -512 v 256 h 1280 v -256 z" />
+</svg>

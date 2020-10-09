@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="100%" width="100%" viewBox="0,0,2048,2048" focusable="false">
+   <path type="path" class="style_HighContrast" d="M 1963 640 v 926 l -641 -554 l -618 703 l -576 -575 v 780 h 1835 v 43 h -1878 v -1878 h 43 v 353 l 576 577 l 661 -704 l 276 329 z" />
+   <path type="path" class="style_m20" d="M 1963 1941 h -1856 v -853 l 597 597 l 618 -704 l 641 555 z" />
+   <path type="path" class="style_m26" d="M 1963 1536 l -641 -555 l -618 704 l -597 -597 v -640 l 597 597 l 661 -704 l 269 319 h 329 z" />
+   <path type="path" class="style_m25" d="M 1963 640 v 43 h -342 l -258 -310 l -659 702 l -597 -598 v -60 l 597 598 l 661 -704 l 276 329 m 322 866 v 60 l -641 -554 l -618 703 l -597 -597 v -62 l 597 599 l 618 -704 z" />
+   <path type="path" class="style_m22" d="M 1963 1920 v 43 h -1878 v -1878 h 43 v 1835 z" />
+</svg>
